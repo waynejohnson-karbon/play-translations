@@ -1,0 +1,15 @@
+{
+  "name": "play-translations",
+  "version": "0.0.1",
+  "description": "An experimental translations package for our Ember/React/Other-based projects.",
+  "keywords": [
+    "lokalise",
+    "translations"
+  ],
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
