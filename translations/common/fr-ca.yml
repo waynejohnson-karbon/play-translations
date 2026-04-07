@@ -1,0 +1,21 @@
+common:
+  access: Accès
+  accessDenied: 'Accès refusé'
+  account: Compte
+  accounting: Comptabilité
+  actions: Actions
+  active: Active
+  activities: Activités
+  add:
+    add: Ajouter
+    addComment: 'Ajouter un commentaire'
+    addContact: 'Ajouter un contact'
+    addFilter: 'Ajouter un filtre'
+    addNote: 'Ajouter une note'
+    addTo: 'Ajouter à'
+    addToTimeline: 'Ajouter au fil chronologique'
+    addToWork: 'Ajouter au travail'
+  addAttachment: ''
+  addToMyWeek: 'Ajouter à Ma Semaine'
+  address: Adresse
+  all: Tous

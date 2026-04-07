@@ -1,0 +1,80 @@
+contacts:
+  addContactForm:
+    addClientGroupForm:
+      clientGroupName: 'Client Group Name'
+      createNewClientGroup: 'Create New Client Group'
+      newClientGroup: 'New Client Group'
+    addContactModal:
+      addClientGroup: 'Add Client Group'
+      addClientGroupOption: 'Group of people and organisations that are related by ownership or financial structure'
+      addOrganization: 'Add Organisation'
+      addOrganizationOption: 'Companies, Family Trusts, Nonprofits'
+      addPerson: 'Add Person'
+      addPersonOption: 'Individuals and Sole Traders'
+    addOrgForm:
+      createNewOrganization: 'Create New Organisation'
+      newOrganization: 'New Organisation'
+      organizationPlaceholder: 'Organisation Name'
+      website: Website
+    addPersonForm:
+      contactTypeSelectLabel: 'Contact Type'
+      createNewOrgLabel: 'Create new organisation'
+      createNewPerson: 'Create new person'
+      createNewPersonLabel: 'Create New Person'
+      emailAddress: 'Email Address'
+      firstNamePlaceHolder: First
+      fullName: 'Full Name'
+      lastNamePlaceHolder: Last
+      middleNamePlaceHolder: Middle
+      newPerson: 'New Person'
+      orgNameLabel: 'Organisation Name'
+      organization: Organisation
+      phoneNumberInputLabel: 'Phone Number'
+      preferredNameInputLabel: 'Add Preferred Name'
+      preferredNameLabel: 'Preferred Name'
+      roleInOrgLabel: 'Role in Organisation (e.g CEO, Director, Owner)'
+    clientIdentifier: 'Client Identifier'
+    clientIdentifierAlreadyExists: 'This Client Indentifier is already is use'
+    clientIdentifierRequired: 'Client Identifier is required'
+    contactLimit:
+      choice: 'You can either:'
+      contactAdmin: 'Talk to your {applicationName} Admin about upgrading your plan.'
+      message: 'You have reached your plan’s 1,000 contact limit.'
+      optionOne: 'Delete unused contacts to get back within your limit, or'
+      optionTwo: 'Upgrade to the Business Plan'
+      title: 'Upgrade to Business Plan'
+    contactType: 'Contact Type'
+    create: Create
+    createExternalClientSelected: 'Create new client in {externalProviderName}'
+    dialogActionBar:
+      manageSubscription: 'Manage Subscription'
+    errorMessage:
+      alreadyUsed: 'Email address is already in use.'
+      emailInDomain: 'You may not add a contact for email addresses in your domain'
+      invalidEmail: 'The format of this email address is invalid.'
+    loader:
+      message: 'Creating contact'
+    notifications:
+      addedContact: 'Contact added'
+      clientGroupCreated: 'Client Group created'
+      clientGroupNotCreated: 'Client Group could not be created'
+      contactEditFail: 'Failed to Edit Contact'
+      contactSaveFail: 'Failed to Create Contact'
+      contactSaveSuccess: 'Contact created'
+      couldNotDeleteContact: 'Failed to Delete Contact'
+      nameDeleted: '{name} deleted'
+      sentToProviderName: 'Sent to {providerName}'
+      xpmToast: 'Sent to {providerName}'
+    primaryContactPerson:
+      createNewLabel: 'Create Contact'
+      emailAddressPlaceHolder: 'Email Address'
+      firstNamePlaceHolder: 'First Name'
+      label: 'Primary Contact Person'
+      lastNamePlaceHolder: 'Last Name'
+      searchContacts: 'Search Contacts'
+    sharePanel:
+      notSharingStatement: 'Your email communication with this address will NOT be shared on related timelines –'
+      sharingStatement: 'Your email communication with this address will be shared on related timelines –'
+      turnOffSharing: 'Turn Off Sharing'
+      turnOnSharing: 'Turn On Sharing'
+    tags: Tags
