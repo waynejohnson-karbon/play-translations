@@ -1,0 +1,21 @@
+common:
+  access: Access
+  accessDenied: 'Access Denied'
+  account: Account
+  accounting: Accounting
+  actions: Actions
+  active: Active
+  activities: Activities
+  add:
+    add: Add
+    addComment: 'Add Comment'
+    addContact: 'Add Contact'
+    addFilter: 'Add Filter'
+    addNote: 'Add Note'
+    addTo: 'Add to'
+    addToTimeline: 'Add to Timeline'
+    addToWork: 'Add to Work'
+  addAttachment: ''
+  addToMyWeek: ''
+  address: Address
+  all: All
