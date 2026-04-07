@@ -1,0 +1,80 @@
+contacts:
+  addContactForm:
+    addClientGroupForm:
+      clientGroupName: 'Nom du groupe de clients'
+      createNewClientGroup: 'Créer un nouveau groupe de clients'
+      newClientGroup: 'Nouveau groupe de clients'
+    addContactModal:
+      addClientGroup: 'Ajouter un groupe de clients'
+      addClientGroupOption: 'Groupe de personnes et d’organisations qui sont liées par la propriété ou la structure financière'
+      addOrganization: 'Ajouter une organisation'
+      addOrganizationOption: 'Entreprises, regroupements, organisations à but non lucratif'
+      addPerson: 'Ajouter une personne'
+      addPersonOption: 'Individus et entrepreneurs particuliers'
+    addOrgForm:
+      createNewOrganization: 'Créer une nouvelle organisation'
+      newOrganization: 'Nouvelle organisation'
+      organizationPlaceholder: "Nom de l'organisation"
+      website: 'Site web'
+    addPersonForm:
+      contactTypeSelectLabel: 'Type de contact'
+      createNewOrgLabel: 'Créer une nouvelle organisation'
+      createNewPerson: 'Créer une nouvelle personne'
+      createNewPersonLabel: 'Créer une nouvelle personne'
+      emailAddress: 'Adresse électronique'
+      firstNamePlaceHolder: Prénom
+      fullName: 'Nom complet'
+      lastNamePlaceHolder: 'Nom de Famille'
+      middleNamePlaceHolder: 'Deuxièmes prénoms'
+      newPerson: 'Nouvelle personne'
+      orgNameLabel: "Nom de l'organisation"
+      organization: Organisation
+      phoneNumberInputLabel: 'Numéro de téléphone'
+      preferredNameInputLabel: "Ajouter un nom d'usage"
+      preferredNameLabel: 'Nom préféré'
+      roleInOrgLabel: 'Rôle dans l’organisation (par exemple PDG, directeur, propriétaire)'
+    clientIdentifier: 'Identifiant du client'
+    clientIdentifierAlreadyExists: 'Cet identifiant client est déjà utilisé'
+    clientIdentifierRequired: 'L’identifiant client est requis'
+    contactLimit:
+      choice: 'Vous pouvez soit :'
+      contactAdmin: 'Parlez à votre administrateur {applicationName} de la mise à niveau de votre plan.'
+      message: 'Vous avez atteint la limite de 1 000 contacts prévue dans votre abonnement.'
+      optionOne: 'Supprimez les contacts inutilisés pour revenir dans votre limite, ou bien'
+      optionTwo: 'Passer à l’abonnement Affaires'
+      title: 'Passer à l’abonnement Affaires'
+    contactType: 'Type de contact'
+    create: Créer
+    createExternalClientSelected: 'Créer un nouveau client dans {externalProviderName}'
+    dialogActionBar:
+      manageSubscription: 'Gérer l’abonnement'
+    errorMessage:
+      alreadyUsed: 'Cette adresse électronique est déjà utilisée.'
+      emailInDomain: 'Vous ne pouvez pas créer un contact pour les adresses électroniques de votre domaine.'
+      invalidEmail: 'Le format de cette adresse électronique n’est pas valide.'
+    loader:
+      message: 'Création du contact'
+    notifications:
+      addedContact: 'Contact ajouté'
+      clientGroupCreated: 'Groupe de clients créé'
+      clientGroupNotCreated: 'Le groupe de clients n’a pas pu être créé'
+      contactEditFail: 'Échec de la modification du contact'
+      contactSaveFail: 'Échec de la création du contact'
+      contactSaveSuccess: 'Contact créé'
+      couldNotDeleteContact: 'Échec de la suppression de ce contact'
+      nameDeleted: '{name} supprimé'
+      sentToProviderName: 'Envoyé à {providerName}'
+      xpmToast: 'Envoyé à {providerName}'
+    primaryContactPerson:
+      createNewLabel: 'Créer un contact'
+      emailAddressPlaceHolder: 'Adresse électronique'
+      firstNamePlaceHolder: Prénom
+      label: 'Contact Principal'
+      lastNamePlaceHolder: 'Nom de famille'
+      searchContacts: 'Rechercher des contacts'
+    sharePanel:
+      notSharingStatement: 'Votre communication par courrier électronique avec cette adresse ne sera PAS partagée sur les fils chronologiques correspondants -'
+      sharingStatement: 'Votre communication par courrier électronique avec cette adresse sera partagée sur les fils chronologiques correspondants -'
+      turnOffSharing: 'Désactiver le partage'
+      turnOnSharing: 'Activer le partage'
+    tags: 'Mots clés'
