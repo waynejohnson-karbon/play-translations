@@ -1,6 +1,6 @@
 {
-  "name": "play-translations",
-  "version": "0.0.1",
+  "name": "@karbonhq/play-translations",
+  "version": "0.0.2",
   "description": "An experimental translations package for our Ember/React/Other-based projects.",
   "keywords": [
     "lokalise",
